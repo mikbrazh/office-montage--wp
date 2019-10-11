@@ -1,0 +1,181 @@
+# Translation of Plugins - Bazz CallBack widget - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Bazz CallBack widget - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-02 11:38:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Bazz CallBack widget - Development (trunk)\n"
+
+#: bazz-callback-widget.php:220
+msgid "CALL ME"
+msgstr "ПОЗВОНИТЕ МНЕ"
+
+#: bazz-callback-widget.php:231
+msgid "We will call %s back in the near future!"
+msgstr "Мы позвоним %s в ближайшее время!"
+
+#: bazz-callback-widget.php:244
+msgid "We will call %s back in %s seconds!"
+msgstr "Мы позвоним %s в течение %s секунд!"
+
+#: bazz-callback-widget.php:257
+msgid "Introduce yourself, and we'll call you by name"
+msgstr "Представьтесь и мы будем называть вас по имени."
+
+#: bazz-callback-widget.php:359
+msgid "The working day with %s h to %s h"
+msgstr "Рабочий день с %s ч до %s ч"
+
+#: bazz-callback-widget.php:375
+msgid "The text after sending in working hours (afternoon):"
+msgstr "Текст, выводящийся в рабочее время (вечером):"
+
+#: bazz-callback-widget.php:379
+msgid "The text after sending in NOT working hours (night):"
+msgstr "Текст, выводящийся в НЕрабочее время (ночью):"
+
+#: bazz-callback-widget.php:364
+msgid "For now is %s"
+msgstr "Пока что %s"
+
+#: bazz-callback-widget.php:273
+msgid "Settings"
+msgstr "Настройки"
+
+#: bazz-callback-widget.php:408
+msgid "Right"
+msgstr "Справа"
+
+#: bazz-callback-widget.php:405
+msgid "Left"
+msgstr "Слева"
+
+#: bazz-callback-widget.php:391
+msgid "No"
+msgstr "Нет"
+
+#: bazz-callback-widget.php:388
+msgid "Yes"
+msgstr "Да"
+
+#: bazz-callback-widget.php:384
+msgid "Your clients are from Russia?"
+msgstr "Ваши клиенты из России?"
+
+#: bazz-callback-widget.php:315
+msgid "Color scheme:"
+msgstr "Цветовая схема:"
+
+#: bazz-callback-widget.php:372
+msgid "Set 0 and countdown functionality will be disabled"
+msgstr "Задайте 0, и функция обратного отсчета будет отключена"
+
+#: bazz-callback-widget.php:401
+msgid "Show on the left/right side"
+msgstr "Отображать слева/справа"
+
+#: bazz-callback-widget.php:146
+msgid "The client wasn't introduced"
+msgstr "Клиент не представился"
+
+#: bazz-callback-widget.php:161
+msgid "[FROM BAZZ WIDGET]"
+msgstr "[ИЗ ВИДЖЕТА]"
+
+#: bazz-callback-widget.php:162
+msgid "Phone"
+msgstr "Телефон"
+
+#: bazz-callback-widget.php:163
+msgid "Name"
+msgstr "Имя"
+
+#: bazz-callback-widget.php:253
+msgid "Call me!"
+msgstr "Жду звонка!"
+
+#: bazz-callback-widget.php:309
+msgid "Hi there! This is settings of the"
+msgstr "Привет! Это настройки плагина"
+
+#: bazz-callback-widget.php:320
+msgid "To send the message to:"
+msgstr "Отправлять письмо на:"
+
+#: bazz-callback-widget.php:329
+msgid "Specify working time:"
+msgstr "Укажите время работы:"
+
+#: bazz-callback-widget.php:363
+msgid "*The time zone is using WordPress settings."
+msgstr "*Часовой пояс берется из настроек WordPress"
+
+#: bazz-callback-widget.php:368
+msgid "The countdown will be started on"
+msgstr "Таймер обратного отсчета будет запущен на"
+
+#: bazz-callback-widget.php:370
+msgid "seconds."
+msgstr "секунд."
+
+#: bazz-callback-widget.php:412
+msgid "Save"
+msgstr "Сохранить"
+
+#. Plugin Name of the plugin/theme
+msgid "Bazz CallBack Widget"
+msgstr "Bazz CallBack Widget"
+
+#: bazz-callback-widget.php:49
+msgid "Unfortunately, we don't work for now. We will call you back tomorrow! Thanks!"
+msgstr "К сожалению, наш рабочий день уже закончен. Мы перезвоним вам завтра! Спасибо!"
+
+#: bazz-callback-widget.php:122
+msgid "EN"
+msgstr "EN"
+
+#: bazz-callback-widget.php:48
+msgid "The loading is extremely high, we will call you back in the near future. Thanks!"
+msgstr "Нагрузка крайне высокая, мы перезвоним вам в ближайшее время. Спасибо!"
+
+#: bazz-callback-widget.php:227
+msgid "you"
+msgstr "вам"
+
+#: bazz-callback-widget.php:251
+msgid "phone here"
+msgstr "+7___-___-____"
+
+#: bazz-callback-widget.php:259
+msgid "name here"
+msgstr "Введите своё имя"
+
+#: bazz-callback-widget.php:310
+msgid "Change the parameters to the your discretion."
+msgstr "Изменяйте параметры с благоразумием."
+
+#: bazz-callback-widget.php:396
+msgid "Distance from the window bottom"
+msgstr "Расстояние от низа экрана"
+
+#. #-#-#-#-#  bazz-callback-widget-code.pot (Bazz CallBack Widget 3.17) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  bazz-callback-widget-code.pot (Bazz CallBack Widget 3.17) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://viktor-web.ru"
+msgstr "https://viktor-web.ru"
+
+#. Description of the plugin/theme
+msgid "This plugin makes a simple widget for callback on your website."
+msgstr "Плагин создает простой виджет для обратного звонка на ваш сайт. "
+
+#. Author of the plugin/theme
+msgid "Viktor Ievlev"
+msgstr "Виктор Иевлев"
